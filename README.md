@@ -6,6 +6,7 @@ A Bash script, that creates PDF Karaoke files. You need a folder that contains t
 
 # Software Dependencies
 * pdftk
+* pdfpc
 
 # Thanks goes to...
 * Kirils for his inspiriation
