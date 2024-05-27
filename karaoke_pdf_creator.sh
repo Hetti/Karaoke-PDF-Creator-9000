@@ -48,4 +48,4 @@ pdftk A="$outputfile"_7 B="$random_deck" cat A B"$pagecount" output "${outputfil
 rm "${outputfile}"_7
 
 echo "[+] Your Karaoke PDF was created - Good Luck!"
-#pdfpc $outputfile
+pdfpc $outputfile
